@@ -1,5 +1,4 @@
-/* Applies to the entire body of the HTML document (except where overridden by more specific
-selectors). */
+
 html { font-size: 100%;
 }
 
@@ -19,14 +18,12 @@ body {
   align-items: center;
 }
 
-/* Applies to all <h1>...</h1> elements. */
 h1 {
   font-size: 35px;
   font-weight: normal;
   margin-top: 5px;
 }
 
-/* Applies to all elements with <... class="someclass"> specified. */
 .app {
   width: 52rem;
   height: 36rem;
@@ -52,5 +49,3 @@ main {
   width: 66.666667%;
   border-left: 2px solid black;
 }
-/* Applies to the element with <... id="someid"> specified. */
-#someid { color: green; }
