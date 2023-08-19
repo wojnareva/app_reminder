@@ -50,10 +50,3 @@ main {
   width: 66.666667%;
   border-left: 2px solid black;
 }
-
-/* Applies to the element with <... id="someid"> specified. */
-#someid {
-  color: green;
-}
-
-/*  */
